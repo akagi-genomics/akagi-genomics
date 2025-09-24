@@ -11,7 +11,16 @@ I·m also exploring **AI-assisted** scoring and visualization of complex rearran
 - Interests: long-read (ONT/PacBio), structural variants, virus integration, single-cell/spatial, TCR-seq
 - Tooling: Python, R, Snakemake
 - Advocate for open science and reproducible research
-  
+
+---
+## · Featured Repositories
+- **[hpv-longread-tools](https://github.com/akagi-genomics/hpv-longread-tools)**
+Utilities for HPV long-read analysis: chimeric read detection & SV·BED conversion (MVP).
+- *(Coming Soon)* **virus-host-concatemer-resolver**
+Resolve & visualize complex virus·host concatemers from long-reads.
+- *(Coming Soon)* **single-cell-meta-omics**
+Reproducible notebooks for single-cell/spatial tumor heterogeneity meta-analysi
+
 <!--
 **akagi-genomics/akagi-genomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
