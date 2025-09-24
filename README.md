@@ -6,6 +6,12 @@ I build practical tools at the intersection of **cancer genomics**, **long-read 
 Current focus: robust detection and interpretation of **HPV integration** and **structural variants** in tumors.
 I·m also exploring **AI-assisted** scoring and visualization of complex rearrangements.
 
+## · About Me
+- Assistant Professor | MD Anderson Cancer Center
+- Interests: long-read (ONT/PacBio), structural variants, virus integration, single-cell/spatial, TCR-seq
+- Tooling: Python, R, Snakemake
+- Advocate for open science and reproducible research
+  
 <!--
 **akagi-genomics/akagi-genomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
