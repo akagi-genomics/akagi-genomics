@@ -19,7 +19,7 @@ Utilities for HPV long-read analysis: chimeric read detection & SV·BED conversi
 - *(Coming Soon)* **virus-host-concatemer-resolver**
 Resolve & visualize complex virus·host concatemers from long-reads.
 - *(Coming Soon)* **single-cell-meta-omics**
-Reproducible notebooks for single-cell/spatial tumor heterogeneity meta-analysi
+Reproducible notebooks for single-cell/spatial tumor heterogeneity meta-analysis
 
 <!--
 **akagi-genomics/akagi-genomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
