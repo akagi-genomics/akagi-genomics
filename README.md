@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi, I·m Keiko Akagi, PhD ·
+**Cancer Genomics | Long-Read Sequencing | AI-Curious Bioinformatician**
+I build practical tools at the intersection of **cancer genomics**, **long-read sequencing**, and **virus·host genom
+Current focus: robust detection and interpretation of **HPV integration** and **structural variants** in tumors.
+I·m also exploring **AI-assisted** scoring and visualization of complex rearrangements.
 
 <!--
 **akagi-genomics/akagi-genomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
