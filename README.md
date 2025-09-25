@@ -1,5 +1,5 @@
 # Keiko Akagi, PhD
-**Cancer Genomics | Long-Read Sequencing | AI-Curious Bioinformatician**
+**Cancer Genomics | Long-Read Sequencing | Bioinformatician**
 
 I build practical tools at the intersection of **cancer genomics**, **long-read sequencing**, and **virus-induced genomic alteration**
 
