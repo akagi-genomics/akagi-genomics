@@ -7,7 +7,6 @@ Current focus: robust detection and interpretation of **HPV integration** and **
 I'm also exploring **AI-assisted** scoring and visualization of complex rearrangements.
 
 ## · About Me
-- Assistant Professor | MD Anderson Cancer Center
 - Interests: long-read (ONT/PacBio), structural variants, virus integration, single-cell/spatial, TCR-seq
 - Tooling: Python, R, Snakemake
 - Advocate for open science and reproducible research
