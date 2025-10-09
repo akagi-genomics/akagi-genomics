@@ -22,7 +22,7 @@ Reproducible notebooks for single-cell/spatial tumor heterogeneity meta-analysis
 
 
 ## · Collaborations
-- **[SVAlignR](https://cran.r-project.org/web/packages/SVAlignR/index.html) SVAlignR: Recovering Structure of Long Molecules from Structural Variation Data developed by [Kevin Coombes](https://github.com/kevincoombes 
+- **[SVAlignR](https://cran.r-project.org/web/packages/SVAlignR/index.html) SVAlignR: Recovering Structure of Long Molecules from Structural Variation Data developed by Kevin Coombes 
 
 <!--
 **akagi-genomics/akagi-genomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
