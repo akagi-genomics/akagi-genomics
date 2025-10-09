@@ -13,12 +13,10 @@ I'm also exploring **AI-assisted** scoring and visualization of complex rearrang
 
 ---
 ## · Featured Repositories
-- **[hpv-longread-tools](https://github.com/akagi-genomics/hpv-longread-tools)**
-Utilities for HPV long-read analysis: chimeric read detection & SV·BED conversion (MVP).
+- **[virus-integration-pipeline](https://github.com/akagi-genomics/hpv-longread-tools](https://github.mdanderson.org/kakagi/virus-integration-pipeline)**
+Utilities for long-read analysis: chimeric read detection & SV·BED conversion (MVP).
 - *(Coming Soon)* **virus-host-concatemer-resolver**
 Resolve & visualize complex virus·host concatemers from long-reads.
-- *(Coming Soon)* **single-cell-meta-omics**
-Reproducible notebooks for single-cell/spatial tumor heterogeneity meta-analysis
 
 
 ## · Collaborations
